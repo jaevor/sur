@@ -1,0 +1,9 @@
+
+
+numbers.map() { o.square() }
+numbers.map() {a => a.square() }
+numbers.map((a) { a.square() })
+
+fun k = (a, b, c: i32) { ... }
+
+fun k = (a: i32, b: i32) -> i32, O(1), (http, db) {}
